@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ﾒ'𝟶 About Me:
 🔭 I’m currently studing backend and web development.  
 👯 I’m open to collaboration.  
 ⚡ Fun fact: I love mango.
