@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing back-end and web development.  
+🔭 I’m currently studing backend and web development.  
 👯 I’m open to collaboration.  
 ⚡ Fun fact: I love mango.
 
